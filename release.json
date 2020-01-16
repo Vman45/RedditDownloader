@@ -62,15 +62,15 @@
       "content_type": "binary/octet-stream",
       "state": "uploaded",
       "size": 27657800,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2020-01-15T22:03:26Z",
       "updated_at": "2020-01-15T22:03:27Z",
       "browser_download_url": "https://github.com/shadowmoose/RedditDownloader/releases/download/3.0.1/RMD-macOS",
       "metadata": {
         "updatedMS": 1579125807000,
         "updated": 1579125807,
-        "sha1": "3380018a6b763221f1de56ceeb39504ae2fffdb6",
         "sha256": "f017a77dc4821628b7cf01626b42742d5821bf9a06c59a0ac49e9c0f0f5d00de",
+        "sha1": "3380018a6b763221f1de56ceeb39504ae2fffdb6",
         "md5": "8671d7e862241254316a2eb90374ee2b"
       }
     },
@@ -103,16 +103,16 @@
       "content_type": "binary/octet-stream",
       "state": "uploaded",
       "size": 33890136,
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2020-01-15T22:02:58Z",
       "updated_at": "2020-01-15T22:02:59Z",
       "browser_download_url": "https://github.com/shadowmoose/RedditDownloader/releases/download/3.0.1/RMD-ubuntu",
       "metadata": {
         "updatedMS": 1579125779000,
         "updated": 1579125779,
-        "md5": "5c88403e2ac716a0c4e60732bfeec610",
         "sha1": "7201c4375fabd21439252d7d7f74eb8248d8410e",
-        "sha256": "85bd31775f5513a45b36ce8e0605d9be7dfa500d2aa73e456e413aec4f073790"
+        "sha256": "85bd31775f5513a45b36ce8e0605d9be7dfa500d2aa73e456e413aec4f073790",
+        "md5": "5c88403e2ac716a0c4e60732bfeec610"
       }
     },
     {
@@ -144,16 +144,16 @@
       "content_type": "binary/octet-stream",
       "state": "uploaded",
       "size": 28295090,
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2020-01-15T22:04:27Z",
       "updated_at": "2020-01-15T22:04:36Z",
       "browser_download_url": "https://github.com/shadowmoose/RedditDownloader/releases/download/3.0.1/RMD-windows.exe",
       "metadata": {
         "updatedMS": 1579125876000,
         "updated": 1579125876,
-        "sha1": "5b871b7913d0671f94f5823390cea5a39e916eaa",
         "sha256": "e40445c12227a3f2c03bffb8614693483923122d3f1e93bd2b2f04ffa0415e80",
-        "md5": "2d12c79ca4788e4d00da480c24f5af3e"
+        "md5": "2d12c79ca4788e4d00da480c24f5af3e",
+        "sha1": "5b871b7913d0671f94f5823390cea5a39e916eaa"
       }
     }
   ],
