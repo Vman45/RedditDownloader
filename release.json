@@ -62,16 +62,16 @@
       "content_type": "binary/octet-stream",
       "state": "uploaded",
       "size": 27657800,
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2020-01-15T22:03:26Z",
       "updated_at": "2020-01-15T22:03:27Z",
       "browser_download_url": "https://github.com/shadowmoose/RedditDownloader/releases/download/3.0.1/RMD-macOS",
       "metadata": {
         "updatedMS": 1579125807000,
         "updated": 1579125807,
-        "sha1": "3380018a6b763221f1de56ceeb39504ae2fffdb6",
         "md5": "8671d7e862241254316a2eb90374ee2b",
-        "sha256": "f017a77dc4821628b7cf01626b42742d5821bf9a06c59a0ac49e9c0f0f5d00de"
+        "sha256": "f017a77dc4821628b7cf01626b42742d5821bf9a06c59a0ac49e9c0f0f5d00de",
+        "sha1": "3380018a6b763221f1de56ceeb39504ae2fffdb6"
       }
     },
     {
@@ -103,7 +103,7 @@
       "content_type": "binary/octet-stream",
       "state": "uploaded",
       "size": 33890136,
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2020-01-15T22:02:58Z",
       "updated_at": "2020-01-15T22:02:59Z",
       "browser_download_url": "https://github.com/shadowmoose/RedditDownloader/releases/download/3.0.1/RMD-ubuntu",
@@ -111,8 +111,8 @@
         "updatedMS": 1579125779000,
         "updated": 1579125779,
         "sha1": "7201c4375fabd21439252d7d7f74eb8248d8410e",
-        "sha256": "85bd31775f5513a45b36ce8e0605d9be7dfa500d2aa73e456e413aec4f073790",
-        "md5": "5c88403e2ac716a0c4e60732bfeec610"
+        "md5": "5c88403e2ac716a0c4e60732bfeec610",
+        "sha256": "85bd31775f5513a45b36ce8e0605d9be7dfa500d2aa73e456e413aec4f073790"
       }
     },
     {
@@ -144,7 +144,7 @@
       "content_type": "binary/octet-stream",
       "state": "uploaded",
       "size": 28295090,
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2020-01-15T22:04:27Z",
       "updated_at": "2020-01-15T22:04:36Z",
       "browser_download_url": "https://github.com/shadowmoose/RedditDownloader/releases/download/3.0.1/RMD-windows.exe",
